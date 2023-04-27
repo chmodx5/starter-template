@@ -8,6 +8,7 @@ export default function Home({ products }) {
     return (
         <>
             <main>{JSON.stringify(products)}</main>
+            <div>wow this thing is just another banger</div>
         </>
     );
 }
